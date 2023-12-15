@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T09:14:56.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="bDIH_NIwRb7NQb_nB4pd" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T09:16:04.014Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="R-8jrYPLGkVOQ25nIJg8" version="22.1.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,17 +37,15 @@
         <mxCell id="nkFL1_MIGFsqh9c0IYvb-9" value="Gép cikkszámot kiírják költséghelyre" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="325" y="80" width="429" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nkFL1_MIGFsqh9c0IYvb-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.067;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.007;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nkFL1_MIGFsqh9c0IYvb-9" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="nkFL1_MIGFsqh9c0IYvb-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nkFL1_MIGFsqh9c0IYvb-9" target="WIyWlLk6GJQsqaUBKTNV-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="194" as="sourcePoint" />
-            <mxPoint x="440" y="144" as="targetPoint" />
+            <mxPoint x="415" y="185" as="sourcePoint" />
+            <mxPoint x="465" y="135" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="757" y="170" />
-              <mxPoint x="733" y="170" />
-              <mxPoint x="733" y="160" />
-              <mxPoint x="590" y="160" />
-              <mxPoint x="590" y="144" />
-              <mxPoint x="109" y="144" />
+              <mxPoint x="754" y="185" />
+              <mxPoint x="430" y="185" />
+              <mxPoint x="430" y="170" />
+              <mxPoint x="131" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
